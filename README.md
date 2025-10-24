@@ -16,7 +16,7 @@ If your OS isn’t supported, vibr prints a helpful error message with a link to
 2. Run the script
 - On POSIX:
   ```
-  python3 .py
+  python3 main.py
   ```
 - On Windows:
   ```
